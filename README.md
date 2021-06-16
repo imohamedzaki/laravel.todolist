@@ -1,2 +1,2 @@
 # laravel.todolist
-Simple task management system with Laravel 8.46.0 v
+Simple task management system with Laravel v8.46.0
