@@ -1,0 +1,32 @@
+.taskAdded, .tasknotAdded {
+    background: #38c172bd;
+    padding: .3em .5em;
+    margin-top: -.5em;
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: .1rem;
+    border: 1px dashed #ffffff54;
+}
+.errorborder {
+    border:1px solid red;
+}
+.taskdiv {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.tasknotAdded {
+    background: #c14d38bd;
+    border: 1px dashed #ffffff54;
+}
+.paginate {
+    margin-top:1rem;
+    font-weight:bold;
+}
+.page-item.active .page-link {
+    background: linear-gradient(90deg, rgba(173,66,80,1) 0%, rgba(233,149,54,1) 52%, rgba(214,128,24,1) 76%);
+    border:1px solid #d68018;
+
+}
